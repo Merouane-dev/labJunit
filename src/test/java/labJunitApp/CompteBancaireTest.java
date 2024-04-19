@@ -34,4 +34,4 @@ class CompteBancaireTest {
         assertEquals(1000.0, compte.getSolde());
     }
 }
-}
+

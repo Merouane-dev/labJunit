@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: labJunitApp.CalculatriceTest
+Test set: labJunitApp.CompteBancaireTest
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.193 s -- in labJunitApp.CalculatriceTest
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.033 s -- in labJunitApp.CompteBancaireTest
